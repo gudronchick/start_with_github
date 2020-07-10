@@ -7,15 +7,12 @@
 }
 
 html {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-size: 16px;
 }
 
-h2:hover {
-  color: red;
-}
-
 body {
-  background: pink;
+  background: rgb(241, 241, 241);
   color: rgb(73, 0, 71, 0);
 }
